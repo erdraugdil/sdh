@@ -1,6 +1,8 @@
 # sdh
 SQLite Debugger Helper
 
+This is a plugin for GDB and it makes it possible to run SQL queries from the debugger directly. It also supports conditional breakpoints with SQL queries.
+
 ## Installation
 
 ```
